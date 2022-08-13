@@ -1,0 +1,10 @@
+#node nodules
+node_modules/
+
+
+#ts config
+/tsconfig.json
+
+
+#build
+build/
