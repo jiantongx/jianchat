@@ -1,0 +1,7 @@
+{
+  "include": ["build/server/*"],
+  "compilerOptions": {
+
+    "outDir": "run/server"
+  }
+}
